@@ -30,7 +30,10 @@ src/
  └─ App.tsx
  └─index.css
 └─main.tsx
-OutPut:
+
+
+# UI screen shots:
+
 <img width="601" height="782" alt="image" src="https://github.com/user-attachments/assets/4131f2ff-4c20-48f3-b8ce-7da4aabc3850" />
 Filter by Category:
 <img width="760" height="823" alt="image" src="https://github.com/user-attachments/assets/03cd2f75-9b1d-44d1-b9aa-28535836c563" />
